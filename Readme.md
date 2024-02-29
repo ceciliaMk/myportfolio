@@ -1,4 +1,4 @@
 Project Name: Moringa Mini apps- About Me
 Author: Cecilia Mkiwa
-Description: This is a practice individual project on HTML and CSS
+Description: This is a practice individual project on HTML and CSS to create a portfolio with details
 link to project:https://ceciliamk.github.io/myportfolio/
